@@ -1,0 +1,3 @@
+[submodule "dotfiles"]
+	path = .seleneos
+	url = https://github.com/SeleneOS/dotfiles.git
