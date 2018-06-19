@@ -132,7 +132,7 @@ for_window [class="Clementine"] border none
 
         bindsym $mod+space      exec rofi -show drun
         bindsym $mod+Tab        exec rofi -show window
-        bindsym $mod+Delete     exec acl_dmenu_power
+        bindsym $mod+Delete     exec selene.dmenu_power
 
         #endregion
 
