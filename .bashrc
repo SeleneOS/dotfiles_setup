@@ -1,0 +1,1 @@
+[[ -f ~/.seleneos/.bashrc ]] && . ~/.seleneos/.bashrc
