@@ -1,4 +1,4 @@
 [submodule "dotfiles"]
-	path = dotfiles
+	path = .seleneos
 	url = https://github.com/SeleneOS/dotfiles.git
 	branch = master
