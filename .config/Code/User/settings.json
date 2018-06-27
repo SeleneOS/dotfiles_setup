@@ -21,6 +21,7 @@
     "workbench.statusBar.feedback.visible": false,
     "workbench.startupEditor": "none",
     "workbench.tree.horizontalScrolling": true,
+    "workbench.colorTheme": "Ayu Dark",
 
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
